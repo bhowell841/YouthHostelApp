@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">YouthHostelApp</string>
+    <string name="action_settings">Settings</string>
+    <string name="txtTitle">The Old Mill Holiday Hostel</string>
+    <string name="txtHostelInfo">Barrack Yard, James St, Westport, Co. Mayo, Ireland</string>
+    <string name="title_activity_hostel_info">Hostel Info</string>
+    <string name="txtCost">Beds Starting at $41*</string>
+    <string name="txtSmallPrint">*Prices vary by season</string>
+</resources>
